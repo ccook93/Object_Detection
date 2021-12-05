@@ -4,7 +4,7 @@
 from PIL import Image
 import os, sys
 
-path = "/root/users/kimsourthach/downloads/circuit5/"
+path = "../../downloads/circuit5/"
 dirs = os.listdir( path )
 
 def resize():
@@ -12,7 +12,7 @@ def resize():
         if os.path.isfile(path+item):
             im = Image.open(path+item)
             f, e = os.path.splitext(path+item)
-            imResize = im.resize((52,39), Image.ANTIALIAS)
+            imResize = im.resize((518,388), Image.ANTIALIAS)
             imResize.save(f + ' resized.jpg', 'JPEG', quality=90)
 
 resize()
