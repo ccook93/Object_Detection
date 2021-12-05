@@ -4,7 +4,7 @@
 from PIL import Image
 import os, sys
 
-path = "../../downloads/circuit5/"
+path = "../../downloads/object-labeling/vott-csv-export/"
 dirs = os.listdir( path )
 
 def resize():
@@ -13,6 +13,6 @@ def resize():
             im = Image.open(path+item)
             f, e = os.path.splitext(path+item)
             imResize = im.resize((518,388), Image.ANTIALIAS)
-            imResize.save(f + ' resized.jpg', 'JPEG', quality=90)
+            imResize.save(path + 'Resized/' + item , 'JPEG', quality=90)
 
 resize()
