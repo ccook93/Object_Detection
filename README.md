@@ -27,9 +27,5 @@ Sources for dataset: https://ieee-dataport.org/open-access/drone-based-distribut
 * Object Labeling: https://github.com/microsoft/VoTT
 * CNN: https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python
 * R-CNN: https://www.datacamp.com/community/tutorials/object-detection-guide
-* https://www.pyimagesearch.com/2020/10/05/object-detection-bounding-box-regression-with-keras-tensorflow-and-deep-learning/
-
-
- 
-
-
+* Example: https://www.pyimagesearch.com/2020/10/05/object-detection-bounding-box-regression-with-keras-tensorflow-and-deep-learning/
+* Example 2: https://medium.com/nerd-for-tech/building-an-object-detector-in-tensorflow-using-bounding-box-regression-2bc13992973f
