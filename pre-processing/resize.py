@@ -2,13 +2,15 @@
 #!/usr/bin/python
 from PIL import Image
 import os, sys
+import subprocess
 
-path = "../../downloads/object-labeling/vott-csv-export/"
+path = "../../downloads/test2/"
 dirs = os.listdir( path )
 
 def resize():
     for item in dirs:
-        if os.path.isfile(path+item):
+        extension = os.path.splitext(item)[-1].lower()
+        if extension == '.jpg':
             im = Image.open(path+item)
             f, e = os.path.splitext(path+item)
             imResize = im.resize((518,388), Image.ANTIALIAS)
