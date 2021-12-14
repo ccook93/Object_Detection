@@ -34,4 +34,5 @@ Source Code (Google Colab): https://colab.research.google.com/drive/1lbqVcJDhxic
 * Example: https://www.pyimagesearch.com/2020/10/05/object-detection-bounding-box-regression-with-keras-tensorflow-and-deep-learning/
 * Example 2: https://medium.com/nerd-for-tech/building-an-object-detector-in-tensorflow-using-bounding-box-regression-2bc13992973f
 * TensorFlow Start: https://www.tensorflow.org/tutorials/images/cnn
+* Pytorch CNN Example: https://medium.com/dair-ai/pytorch-1-2-quickstart-with-google-colab-6690a30c38d
 
