@@ -22,7 +22,7 @@ Details of the project (Name sources of selected datasets, detailed training and
 
 Sources for dataset: https://ieee-dataport.org/open-access/drone-based-distribution-inspection-imagery
 
-Object Detection (Google Colab): https://colab.research.google.com/drive/1lbqVcJDhxicWGAWJYHdgEwx9_VLkSD27#scrollTo=wOk22-6-IVkR
+Source Code (Google Colab): https://colab.research.google.com/drive/1lbqVcJDhxicWGAWJYHdgEwx9_VLkSD27#scrollTo=wOk22-6-IVkR
 
 ## Resources 
 
