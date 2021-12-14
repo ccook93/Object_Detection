@@ -21,6 +21,7 @@ Details of the project (Name sources of selected datasets, detailed training and
 **A projection of achievable outcomes:** Detect a structure within an image, at a minimum. Possibly determine if that component is a transformer or not. 
 
 Sources for dataset: https://ieee-dataport.org/open-access/drone-based-distribution-inspection-imagery
+Object Detection (Google Colab): https://colab.research.google.com/drive/1lbqVcJDhxicWGAWJYHdgEwx9_VLkSD27#scrollTo=wOk22-6-IVkR
 
 ## Resources 
 
@@ -31,4 +32,4 @@ Sources for dataset: https://ieee-dataport.org/open-access/drone-based-distribut
 * Example: https://www.pyimagesearch.com/2020/10/05/object-detection-bounding-box-regression-with-keras-tensorflow-and-deep-learning/
 * Example 2: https://medium.com/nerd-for-tech/building-an-object-detector-in-tensorflow-using-bounding-box-regression-2bc13992973f
 * TensorFlow Start: https://www.tensorflow.org/tutorials/images/cnn
-* Object Detection (Google Colab): https://colab.research.google.com/drive/1lbqVcJDhxicWGAWJYHdgEwx9_VLkSD27#scrollTo=wOk22-6-IVkR
+
