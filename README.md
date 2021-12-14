@@ -30,6 +30,7 @@ Source Code (Google Colab): https://colab.research.google.com/drive/1lbqVcJDhxic
 * CNN: https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python
 * CNN 2: https://cs231n.github.io/convolutional-networks/
 * R-CNN: https://www.datacamp.com/community/tutorials/object-detection-guide
+* Adam Algorithm: https://keras.io/api/optimizers/adam/
 * Example: https://www.pyimagesearch.com/2020/10/05/object-detection-bounding-box-regression-with-keras-tensorflow-and-deep-learning/
 * Example 2: https://medium.com/nerd-for-tech/building-an-object-detector-in-tensorflow-using-bounding-box-regression-2bc13992973f
 * TensorFlow Start: https://www.tensorflow.org/tutorials/images/cnn
