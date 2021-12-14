@@ -21,6 +21,7 @@ Details of the project (Name sources of selected datasets, detailed training and
 **A projection of achievable outcomes:** Detect a structure within an image, at a minimum. Possibly determine if that component is a transformer or not. 
 
 Sources for dataset: https://ieee-dataport.org/open-access/drone-based-distribution-inspection-imagery
+
 Object Detection (Google Colab): https://colab.research.google.com/drive/1lbqVcJDhxicWGAWJYHdgEwx9_VLkSD27#scrollTo=wOk22-6-IVkR
 
 ## Resources 
