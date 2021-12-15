@@ -36,4 +36,5 @@ Source Code (Google Colab): https://colab.research.google.com/drive/1lbqVcJDhxic
 * TensorFlow Start: https://www.tensorflow.org/tutorials/images/cnn
 * Pytorch CNN Example: https://medium.com/dair-ai/pytorch-1-2-quickstart-with-google-colab-6690a30c38d
 * Neural Network Layers: https://pytorch.org/docs/stable/nn.html?highlight=conv2d#convolution-layers
+* CNN Binary model for Images: https://medium.com/techiepedia/binary-image-classifier-cnn-using-tensorflow-a3f5d6746697
 
