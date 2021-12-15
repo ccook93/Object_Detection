@@ -4,7 +4,7 @@ from PIL import Image
 import os, sys
 import subprocess
 
-path = "../../Documents/TEST/"
+path = "../../Documents/extraction/MISC/"
 dirs = os.listdir( path )
 
 def resize():
